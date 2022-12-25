@@ -1,0 +1,13 @@
+— Accounts table definition in Microsoft SQL Server
+
+CREATE TABLE Accounts (
+	AccountID varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	Website varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	Phone varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	Street varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	City varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	State varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	ZipCode varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Type] varchar(255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	AccountName varchar(100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
+);

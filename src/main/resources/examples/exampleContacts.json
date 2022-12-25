@@ -1,0 +1,47 @@
+[
+  {
+    "contactId": "kjti5403845987hi20345hk",
+    "firstName": "Aaron",
+    "lastName": "Judge",
+    "company": "New York Yankees",
+    "phone": "+1-646-435-3224",
+    "email": "aaron.judge@nyyankees.com",
+    "title": "Hitter / Right Fielder"
+  },
+  {
+    "contactId": "0938hfkdshf058493824",
+    "firstName": "Giancarlo",
+    "lastName": "Stanton",
+    "company": "New York Yankees",
+    "phone": "+1-646-133-9330",
+    "email": "giancarlo.stanton@nyyankees.com",
+    "title": "Designated Hitter"
+  },
+  {
+    "contactId": "0938hfkdshf058493824",
+    "firstName": "Gerrit",
+    "lastName": "Cole",
+    "company": "New York Yankees",
+    "phone": "+1-646-774-2293",
+    "email": "gerrit.cole@nyyankees.com",
+    "title": "Starting Pitcher"
+  },
+  {
+    "contactId": "0938hfkdshf058493824",
+    "firstName": "Anthony",
+    "lastName": "Rizzo",
+    "company": "New York Yankees",
+    "phone": "+1-646-882-6655",
+    "email": "anthony.rizzo@nyyankees.com",
+    "title": "Hitter / First Baseman"
+  },
+  {
+    "contactId": "0938hfkdshf058493824",
+    "firstName": "Nestor",
+    "lastName": "Cortes Jr.",
+    "company": "New York Yankees",
+    "phone": "+1-646-338-9494",
+    "email": "nestor.cortes@nyyankees.com",
+    "title": "Starting Pitcher"
+  }
+]
